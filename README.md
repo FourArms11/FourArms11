@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
-###
+
 
 <h2 align="center">👋 I'm Ishaan, a Computer Engineering student at Thapar Institute of Engineering and Technology</h2>
 
@@ -72,14 +72,7 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FourArms11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourArms11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FourArms11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
