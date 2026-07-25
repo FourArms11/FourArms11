@@ -25,8 +25,17 @@
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
+- 🔭 I’m currently working on [FeedCV:AI-powered Resume Analyzer with ATS scoring, Resume Parsing, Mock Interviews and PDF Generation.](https://github.com/FourArms11/FeedCV)
 
-<p data-importer="text" align="left">🔭 I'm working on full-stack projects like an AI-powered resume and interview prep platform, and a MERN-stack music streaming app<br>📚 I'm currently learning to strengthen my React skills and go deeper into backend systems — auth, transactions, and real-time features<br>⚡ In my free time I solve problems on LeetCode and build backend systems like a bank transaction ledger with JWT auth and atomic transfers</p>
+- 🌱 I’m currently learning **System Design Docker Redis Kafka AWS Microservices**
+
+- 👯 I’m looking to collaborate on **Open Source Backend Projects**
+
+- 💬 Ask me about **Node.js Express.js MongoDB JWT Authentication REST APIs C++ Data Structures & Algorithms Backend Architecture**
+
+- 📫 How to reach me **ishaankumar247@gmail.com**
+
+- ⚡ Fun fact **I debug with console.log() 99 bugs in the code, 127 after fixing one. Works on my machine™ Professional Stack Overflow reader Turning coffee into bugs since 2023 I break things. Then I fix them. My code compiles... eventually. :)**
 
 ###
 
@@ -69,13 +78,6 @@
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/FourArms11/FourArms11/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/FourArms11/FourArms11/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
