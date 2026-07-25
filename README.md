@@ -1,49 +1,40 @@
-<div data-importer="border">
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
 ###
 
-<h2 data-importer="text" align="center">👋 I'm Ishaan, a Computer Engineering student at Thapar Institute of Engineering and Technology</h2>
+<h2 align="center">👋 I'm Ishaan, a Computer Engineering student at Thapar Institute of Engineering and Technology</h2>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-- 🔭 I’m currently working on [FeedCV:AI-powered Resume Analyzer with ATS scoring, Resume Parsing, Mock Interviews and PDF Generation.](https://github.com/FourArms11/FeedCV)
-
-- 🌱 I’m currently learning **System Design Docker Redis Kafka AWS Microservices**
-
-- 👯 I’m looking to collaborate on **Open Source Backend Projects**
-
-- 💬 Ask me about **Node.js Express.js MongoDB JWT Authentication REST APIs C++ Data Structures & Algorithms Backend Architecture**
-
-- 📫 How to reach me **ishaankumar247@gmail.com**
-
-- ⚡ Fun fact **I debug with console.log() 99 bugs in the code, 127 after fixing one. Works on my machine™ Professional Stack Overflow reader Turning coffee into bugs since 2023 I break things. Then I fix them. My code compiles... eventually. :)**
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<p align="left">
+🔭 I'm currently working on <a href="https://github.com/FourArms11/FeedCV">FeedCV</a> — an AI-powered resume analyzer with ATS scoring, resume parsing, mock interviews, and PDF generation<br><br>
+🌱 I'm currently learning System Design, Docker, Redis, Kafka, AWS, and Microservices<br><br>
+👯 I'm looking to collaborate on open source backend projects<br><br>
+💬 Ask me about Node.js, Express.js, MongoDB, JWT Authentication, REST APIs, C++, Data Structures & Algorithms, and Backend Architecture<br><br>
+📫 Reach me at ishaankumar247@gmail.com<br><br>
+⚡ Fun fact: I debug with console.log() — works on my machine™ 🙂
+</p>
 
 ###
 
-<div data-importer="techs" align="left">
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -77,32 +68,35 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
-<div data-importer="stats" align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FourArms11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourArms11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=FourArms11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:FourArms11?theme=minecraft&padding=6&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FourArms11&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FourArms11/FourArms11/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FourArms11/FourArms11/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FourArms11/FourArms11/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FourArms11/FourArms11/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 </div>
 
 ###
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
