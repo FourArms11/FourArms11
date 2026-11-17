@@ -37,20 +37,6 @@
 
 ###
 
-<h3 align="left">🚀 Projects</h3>
-
-###
-
-| Project | What it does | Tech |
-| --- | --- | --- |
-| [**Draw or Die**](https://github.com/FourArms11/Draw-or-Die) | Real-time multiplayer drawing and guessing game. Players create or join rooms, take turns drawing, and race the timer to guess. Server-authoritative game logic, synced canvas strokes, live chat, scoring, and reconnection handling. | React, Vite, Node.js, Express, Socket.IO, MongoDB, JWT |
-| [**FeedCV**](https://github.com/FourArms11/FeedCV) | AI-powered interview prep app that analyzes your resume, self-description, and target job description to generate a personalized interview readiness report. Includes email OTP verification, ATS scoring, resume parsing, mock interviews, and PDF generation. | JavaScript, Node.js, Express, MongoDB |
-| [**Bank Transaction System**](https://github.com/FourArms11/Bank-Transaction-System) | Secure banking backend with JWT authentication, account management, deposits, withdrawals, and fund transfers, using ledger-based transaction tracking. | Node.js, Express, MongoDB, JWT |
-| [**ELC-Activity**](https://github.com/FourArms11/ELC-Activity) | Real-time computer vision app that combines YOLOv8 object detection with DeepFace emotion recognition on a live webcam feed. | Python, YOLOv8, DeepFace |
-| [**Airline Management**](https://github.com/FourArms11/airline_management) | Full-stack airline management system built as a college group project. | Node.js, Express, MySQL, vanilla JavaScript |
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
