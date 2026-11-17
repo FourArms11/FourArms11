@@ -25,13 +25,27 @@
 ###
 
 <p align="left">
-🔭 I'm currently working on <a href="https://github.com/FourArms11/FeedCV">FeedCV</a> — an AI-powered resume analyzer with ATS scoring, resume parsing, mock interviews, and PDF generation<br><br>
+🔭 I'm currently working on <a href="https://github.com/FourArms11/Draw-or-Die">Draw or Die</a> — a real-time multiplayer drawing and guessing game — and <a href="https://github.com/FourArms11/FeedCV">FeedCV</a>, an AI-powered interview prep app<br><br>
 🌱 I'm currently learning System Design, Docker, Redis, Kafka, AWS, and Microservices<br><br>
 👯 I'm looking to collaborate on open source backend projects<br><br>
-💬 Ask me about Node.js, Express.js, MongoDB, JWT Authentication, REST APIs, C++, Data Structures & Algorithms, and Backend Architecture<br><br>
+💬 Ask me about Node.js, Express.js, MongoDB, Socket.IO, JWT Authentication, REST APIs, C++, Data Structures & Algorithms, and Backend Architecture<br><br>
 📫 Reach me at ishaankumar247@gmail.com<br><br>
 ⚡ Fun fact: I debug with console.log() — works on my machine™ 🙂
 </p>
+
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+###
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**Draw or Die**](https://github.com/FourArms11/Draw-or-Die) | Real-time multiplayer drawing and guessing game. Players create or join rooms, take turns drawing, and race the timer to guess. Server-authoritative game logic, synced canvas strokes, live chat, scoring, and reconnection handling. | React, Vite, Node.js, Express, Socket.IO, MongoDB, JWT |
+| [**FeedCV**](https://github.com/FourArms11/FeedCV) | AI-powered interview prep app that analyzes your resume, self-description, and target job description to generate a personalized interview readiness report. Includes email OTP verification, ATS scoring, resume parsing, mock interviews, and PDF generation. | JavaScript, Node.js, Express, MongoDB |
+| [**Bank Transaction System**](https://github.com/FourArms11/Bank-Transaction-System) | Secure banking backend with JWT authentication, account management, deposits, withdrawals, and fund transfers, using ledger-based transaction tracking. | Node.js, Express, MongoDB, JWT |
+| [**ELC-Activity**](https://github.com/FourArms11/ELC-Activity) | Real-time computer vision app that combines YOLOv8 object detection with DeepFace emotion recognition on a live webcam feed. | Python, YOLOv8, DeepFace |
+| [**Airline Management**](https://github.com/FourArms11/airline_management) | Full-stack airline management system built as a college group project. | Node.js, Express, MySQL, vanilla JavaScript |
 
 ###
 
@@ -44,9 +58,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -54,15 +72,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socket.io logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -98,4 +118,3 @@
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
