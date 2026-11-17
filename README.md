@@ -25,7 +25,9 @@
 ###
 
 <p align="left">
-🔭 I'm currently working on <a href="https://github.com/FourArms11/Draw-or-Die">Draw or Die</a> — a real-time multiplayer drawing and guessing game — and <a href="https://github.com/FourArms11/FeedCV">FeedCV</a>, an AI-powered interview prep app<br><br>
+🎓 Computer Engineering student at Thapar Institute of Engineering and Technology, Class of 2028<br><br>
+💻 MERN stack developer who enjoys backend work and figuring out how systems work under the hood<br><br>
+🧩 I like solving problems with C++ and Data Structures & Algorithms<br><br>
 🌱 I'm currently learning System Design, Docker, Redis, Kafka, AWS, and Microservices<br><br>
 👯 I'm looking to collaborate on open source backend projects<br><br>
 💬 Ask me about Node.js, Express.js, MongoDB, Socket.IO, JWT Authentication, REST APIs, C++, Data Structures & Algorithms, and Backend Architecture<br><br>
